@@ -1,4 +1,4 @@
-from PyPDF2 import PdfFileWriter, PdfFileReader 
+from PyPDF2 import PdfFileWriter, PdfFileReader
 #--- Tomado a : https://es.acervolima.com/encriptar-y-desencriptar-pdf-usando-pypdf2/
 
 
